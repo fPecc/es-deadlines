@@ -16,7 +16,7 @@
   year: 2022
   id: iccad22
   link: https://www.iccad.com/
-  deadline: '2020-05-23 23:59:59'
+  deadline: '2022-05-23 23:59:59'
   timezone: Etc/GMT+12
   date: October 30, 2022 - November 3, 2020
   place: San Diego, CA, USA
@@ -27,7 +27,7 @@
   year: 2022
   id: fdl22
   link: http://fdl-conference.com/
-  deadline: '2020-05-02 23:59:59'
+  deadline: '2022-05-02 23:59:59'
   timezone: Etc/GMT+12
   date: September 14-16, 2022
   place: Linz, Austria
@@ -35,15 +35,15 @@
   note: <b>Call for Papers:</b> <a href='http://fdl-conference.com/doc/CFP.pdf'>PDF</a>.
 
 - title: RTSS
-  year: 2020
-  id: rtss20
-  link: http://2020.rtss.org/
-  deadline: '2020-05-28 11:59:00'
-  timezone: Etc/GMT
-  date: December 1-4, 2020
+  year: 2022
+  id: rtss22
+  link: http://2022.rtss.org/
+  deadline: '2022-05-26 23:59:59'
+  timezone: Etc/GMT+12
+  date: December 5-8, 2022
   place: Houston, Texas, USA
   sub: TA
-  note: <b>Call for Papers:</b> <a href='http://2020.rtss.org/call-for-papers/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='http://2022.rtss.org/call-for-papers/'>HTML</a>.
 
 - title: HiPEAC
   year: 2020
