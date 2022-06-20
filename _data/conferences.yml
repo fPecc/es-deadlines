@@ -145,15 +145,15 @@
   note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/cfp_ICCD2022_v3_pdf.pdf'>PDF</a>.
 
 - title: ARCS
-  year: 2020
-  id: arcs2020
-  link: http://arcs2020.itec.kit.edu
-  deadline: '2020-01-17 23:59:59'
-  timezone: Etc/GMT-1
-  date: May 25-28, 2020
-  place: Aachen, Germany
+  year: 2022
+  id: arcs2022
+  link: https://arcs-conference.org/home 
+  deadline: '2022-07-10 23:59:59'
+  timezone: Europa/Berlin
+  date: September 13-15, 2022
+  place: Heilbronn, Germany
   sub: CA
-  note: <b>Call for Papers:</b> <a href='http://arcs2020.itec.kit.edu/download/ARCS2020.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
 
 - title: SAMOS
   year: 2020
