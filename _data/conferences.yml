@@ -222,23 +222,23 @@
   note: <b>Call for Papers:</b> <a href='https://dsd-seaa2022.iuma.ulpgc.es/#call-for-papers'>HTML</a>.
 
 - title: CASES
-  year: 2020
-  id: cases2020
-  link: https://www.esweek.org/cases/about
-  deadline: '2020-04-04 12:59:59'
-  timezone: Etc/GMT+1
-  date: Oct 11-16, 2019
-  place: Shanghai, CN
+  year: 2022
+  id: cases2022
+  link: https://www.esweek.org/cases
+  deadline: '2022-03-31 23:59:59'
+  timezone: Etc/GMT+12
+  date: October 7-14, 2022
+  place: Shanghai, China
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CASES_2020_CFP.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/cases-call-for-papers-page/'>HTML</a>.
 
 - title: CODES+ISSS
-  year: 2020
-  id: codesisss2020
-  link: https://www.esweek.org/codes/about
-  deadline: '2020-04-04 12:59:59'
-  timezone: Etc/GMT+1
-  date: Oct 11-16, 2019
-  place: Shanghai, CN
+  year: 2022
+  id: codesisss2022
+  link: https://esweek.org/codes-isss
+  deadline: '2022-03-31 23:59:59'
+  timezone: Etc/GMT+12
+  date: October 7-14, 2022
+  place: Shanghai, China
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES_ISSS_2020_CFP.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/codesisss-call-for-papers-page/'>HTML</a>.
