@@ -189,15 +189,15 @@
   note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro55/submit/papers.php'>HTML</a>.
 
 - title: ASAP
-  year: 2020
-  id: asap2020
-  link: https://asap2020.cs.manchester.ac.uk
-  deadline: '2020-03-27 23:59:59'
-  timezone: Etc/GMT
-  date: July 6-8, 2020
-  place: Manchester, UK
+  year: 2022
+  id: asap2022
+  link: https://www.asap2022.org/
+  deadline: '2022-02-21 23:59:59'
+  timezone: Etc/GMT+12
+  date: July 12-14, 2022
+  place: Gothenburg, Sweden
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://asap2020.cs.manchester.ac.uk/ASAP2020_CFP.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.asap2022.org/contributions/call_for_papers'>PDF</a>.
 
 - title: LCTES
   year: 2020
