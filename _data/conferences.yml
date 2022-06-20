@@ -101,15 +101,15 @@
   note: <b>Call for Papers:</b> <a href='https://www.ispass.org/ispass2022'>HTML</a>.
 
 - title: ICPE
-  year: 2020
-  id: icpe2020
-  link: https://icpe2020.spec.org
-  deadline: '2019-10-11 23:59:59'
-  timezone: Etc/GMT-7
-  date: Apr 20-24, 2020
-  place: Edmonton, Canada
+  year: 2022
+  id: icpe2022
+  link: https://icpe2022.spec.org
+  deadline: '2021-10-14 23:59:59'
+  timezone: Etc/GMT+12
+  date: Apr 9-13, 2022
+  place: Beijing, China 
   sub: TA
-  note: <b>Call for Papers:</b> <a href='https://icpe2020.spec.org/assets/ICPE_2020_CFC_v3.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://icpe2022.spec.org/icpe22_cfp1.txt'>TXT</a>.
 
 - title: RTAS
   year: 2020
