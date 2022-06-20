@@ -197,18 +197,18 @@
   date: July 12-14, 2022
   place: Gothenburg, Sweden
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.asap2022.org/contributions/call_for_papers'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.asap2022.org/contributions/call_for_papers'>HTML</a>.
 
 - title: LCTES
-  year: 2020
-  id: lctes2020
-  link: https://conf.researchr.org/home/LCTES-2020
-  deadline: '2020-03-30 10:59:59'
-  timezone: Etc/GMT-1
-  date: June 15-20, 2020
-  place: London, UK
+  year: 2022
+  id: lctes2022
+  link: https://pldi22.sigplan.org/track/LCTES-2022 
+  deadline: '2022-03-14 23:59:59'
+  timezone: Etc/GMT+12
+  date: June 13-27, 2022
+  place: San Diego, CA, USA
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://conf.researchr.org/home/LCTES-2020#Call-for-Papers'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://pldi22.sigplan.org/track/LCTES-2022#Call-for-Papers'>HTML</a>.
 
 - title: DSD
   year: 2020
