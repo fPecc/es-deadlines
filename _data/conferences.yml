@@ -83,22 +83,22 @@
   id: date2023
   link: https://www.date-conference.com
   deadline: '2022-09-18 23:59:59'
-  timezone: Europe/Paris
+  timezone: Etc/GMT+12
   date: April 17 - 19, 2023
   place: Antwerp, Belgium
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2023-Call-for-Papers.pdf'>PDF</a>.
 
 - title: ISPASS
-  year: 2020
-  id: ispass2020
-  link: https://www.ispass.org/ispass2020/
-  deadline: '2019-10-03 23:59:59'
+  year: 2022
+  id: ispass2022
+  link: https://www.ispass.org/ispass2022/
+  deadline: '2021-12-19 23:59:59'
   timezone: Etc/GMT-4
-  date: April 5-7, 2020
+  date: May 22-24, 2022
   place: Boston, Massachusetts, USA
   sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.ispass.org/ispass2020'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.ispass.org/ispass2022'>HTML</a>.
 
 - title: ICPE
   year: 2020
