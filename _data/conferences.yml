@@ -69,7 +69,7 @@
 
 - title: ASPLOS
   year: 2023
-  id: asplos2020
+  id: asplos2023
   link: https://asplos-conference.org
   deadline: '2022-06-30 23:59:59'
   timezone: Etc/GMT+12
@@ -79,15 +79,15 @@
   note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/asplos-2023-cfp/'>HTML</a>.
 
 - title: DATE
-  year: 2020
-  id: date2020
+  year: 2023
+  id: date2023
   link: https://www.date-conference.com
-  deadline: '2019-09-08 23:59:59'
+  deadline: '2022-09-18 23:59:59'
   timezone: Europe/Paris
-  date: Mar 9-13, 2020
-  place: Grenonble, France
+  date: April 17 - 19, 2023
+  place: Antwerp, Belgium
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/call-for-papers'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2023-Call-for-Papers.pdf'>PDF</a>.
 
 - title: ISPASS
   year: 2020
