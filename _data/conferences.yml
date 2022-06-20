@@ -12,38 +12,27 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://mcsoc-forum.org/site/index.php/submission/'>HTML</a>.
 
-- title: ICCAD
-  year: 2022
-  id: iccad22
-  link: https://www.iccad.com/
-  deadline: '2022-05-23 23:59:59'
-  timezone: Etc/GMT+12
-  date: October 30, 2022 - November 3, 2020
-  place: San Diego, CA, USA
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://iccad.com/wp-content/uploads/sites/72/2022/04/iccad2022-cfp_web-16.pdf'>PDF</a>.
-
-- title: FDL
-  year: 2022
-  id: fdl22
-  link: http://fdl-conference.com/
-  deadline: '2022-05-02 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 14 - 16, 2022
-  place: Linz, Austria
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='http://fdl-conference.com/doc/CFP.pdf'>PDF</a>.
-
-- title: HiPEAC
+- title: ASPLOS
   year: 2023
-  id: hipeac2023
-  link: https://www.hipeac.net/2022/budapest 
-  deadline: '2022-06-01 23:59:59'
+  id: asplos2023
+  link: https://asplos-conference.org
+  deadline: '2022-06-30 23:59:59'
   timezone: Etc/GMT+12
-  date: Jan 16 - 18, 2023
-  place: Toulouse, France
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.hipeac.net/2023/toulouse/#/call-for-papers/'>HTML</a>.
+  date: March 2023 TBA
+  place: Lausanne, Switzerland
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/asplos-2023-cfp/'>HTML</a>.
+
+- title: ARCS
+  year: 2022
+  id: arcs2022
+  link: https://arcs-conference.org/home
+  deadline: '2022-07-10 23:59:59'
+  timezone: Etc/GMT+1
+  date: September 13 - 15, 2022
+  place: Heilbronn, Germany
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
 
 - title: HPCA
   year: 2023
@@ -52,20 +41,9 @@
   deadline: '2022-07-25 23:59:59'
   timezone: Etc/GMT-4
   date: February 25, 2023 - March 1, 2023
-  place: Montreal, Canada 
+  place: Montreal, Canada
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2023/call-for-papers/'>HTML</a>.
-
-- title: ASPLOS
-  year: 2023
-  id: asplos2023
-  link: https://asplos-conference.org
-  deadline: '2022-06-30 23:59:59'
-  timezone: Etc/GMT+12
-  date: March 2023 TBA 
-  place: Lausanne, Switzerland
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/asplos-2023-cfp/'>HTML</a>.
 
 - title: DATE
   year: 2023
@@ -78,17 +56,6 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2023-Call-for-Papers.pdf'>PDF</a>.
 
-- title: ISPASS
-  year: 2022
-  id: ispass2022
-  link: https://www.ispass.org/ispass2022/
-  deadline: '2021-12-19 23:59:59'
-  timezone: Etc/GMT-4
-  date: May 22-24, 2022
-  place: Boston, Massachusetts, USA
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.ispass.org/ispass2022'>HTML</a>.
-
 - title: ICPE
   year: 2022
   id: icpe2022
@@ -96,7 +63,7 @@
   deadline: '2021-10-14 23:59:59'
   timezone: Etc/GMT+12
   date: Apr 9 - 13, 2022
-  place: Beijing, China 
+  place: Beijing, China
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://icpe2022.spec.org/icpe22_cfp1.txt'>TXT</a>.
 
@@ -107,86 +74,20 @@
   deadline: '2021-11-23 23:59:59'
   timezone: Etc/GMT+12
   date: June 18 - 22, 2022
-  place: New York City, NY, USA 
+  place: New York City, NY, USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2022/submit/papers.php'>HTML</a>.
 
-- title: DAC
-  year: 2023
-  id: dac2023
-  link: https://www.dac.com
-  deadline: 'TBA'
-  timezone: Etc/GMT+12
-  date: TBA 
-  place: TBA 
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.showsbee.com/fairs/85839-Design-Automation-Conference-2023.html'>HTML</a>.
-
-- title: MBMV
-  year: 2023
-  id: mbmv2023
-  link: TBA
-  deadline: TBA 
-  timezone: Etc/GMT-1
-  date: TBA 
-  place: TBA 
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='TBA'>HTML</a>.
-
-- title: ICCD
+- title: ISPASS
   year: 2022
-  id: iccd2022
-  link: https://www.iccd-conf.com/Home.html 
-  deadline: '2022-06-18 23:59:59'
-  timezone: Etc/GMT+12
-  date: October 23 - 26, 2022
-  place: Lake Tahoe, CA, USA 
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/cfp_ICCD2022_v3_pdf.pdf'>PDF</a>.
-
-- title: ARCS
-  year: 2022
-  id: arcs2022
-  link: https://arcs-conference.org/home 
-  deadline: '2022-07-10 23:59:59'
-  timezone: Europa/Berlin
-  date: September 13 - 15, 2022
-  place: Heilbronn, Germany
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
-
-- title: SAMOS
-  year: 2022
-  id: samosxxii
-  link: http://samos-conference.com
-  deadline: '2022-04-04 23:59:59'
-  timezone: Etc/GMT+12
-  date: July 3 - 7, 2022
-  place: Samos Island, Greece
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://samos-conference.com/wp/wp-content/uploads/2022/SAMOS_XXII_CFP_v2.pdf'>PDF</a>.
-
-- title: ISLPED
-  year: 2022
-  id: islped2022
-  link: http://www.islped.org/2020/
-  deadline: '2022-03-11 23:59:59'
-  timezone: Etc/GMT+12
-  date: August 1 - 3, 2022
-  place: Boston, MA, USA
-  sub: LP
-  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2022/files/ISLPED2022_CFP_v1.1.pdf'>PDF</a>.
-
-- title: MICRO
-  year: 2022
-  id: micro55
-  link: https://www.microarch.org/micro55/
-  deadline: '2022-04-14 23:59:59'
-  timezone: Etc/GMT-7
-  date: October 1 - 5, 2022
-  place: Chicago, IL, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro55/submit/papers.php'>HTML</a>.
+  id: ispass2022
+  link: https://www.ispass.org/ispass2022/
+  deadline: '2021-12-19 23:59:59'
+  timezone: Etc/GMT-4
+  date: May 22-24, 2022
+  place: Boston, Massachusetts, USA
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='https://www.ispass.org/ispass2022'>HTML</a>.
 
 - title: ASAP
   year: 2022
@@ -199,27 +100,27 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.asap2022.org/contributions/call_for_papers'>HTML</a>.
 
+- title: ISLPED
+  year: 2022
+  id: islped2022
+  link: http://www.islped.org/2020/
+  deadline: '2022-03-11 23:59:59'
+  timezone: Etc/GMT+12
+  date: August 1 - 3, 2022
+  place: Boston, MA, USA
+  sub: LP
+  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2022/files/ISLPED2022_CFP_v1.1.pdf'>PDF</a>.
+
 - title: LCTES
   year: 2022
   id: lctes2022
-  link: https://pldi22.sigplan.org/track/LCTES-2022 
+  link: https://pldi22.sigplan.org/track/LCTES-2022
   deadline: '2022-03-14 23:59:59'
   timezone: Etc/GMT+12
   date: June 13 - 27, 2022
   place: San Diego, CA, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://pldi22.sigplan.org/track/LCTES-2022#Call-for-Papers'>HTML</a>.
-
-- title: DSD
-  year: 2022
-  id: dsd2022
-  link: https://dsd-seaa2022.iuma.ulpgc.es/
-  deadline: '2022-05-25 23:59:59'
-  timezone: Etc/GMT+12
-  date: August 31, 2020 - September 2, 2022
-  place: Maspalomas, Spain 
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2022.iuma.ulpgc.es/#call-for-papers'>HTML</a>.
 
 - title: CASES
   year: 2022
@@ -242,3 +143,102 @@
   place: Shanghai, China
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://esweek.org/codesisss-call-for-papers-page/'>HTML</a>.
+
+- title: SAMOS
+  year: 2022
+  id: samosxxii
+  link: http://samos-conference.com
+  deadline: '2022-04-04 23:59:59'
+  timezone: Etc/GMT+12
+  date: July 3 - 7, 2022
+  place: Samos Island, Greece
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://samos-conference.com/wp/wp-content/uploads/2022/SAMOS_XXII_CFP_v2.pdf'>PDF</a>.
+
+- title: MICRO
+  year: 2022
+  id: micro55
+  link: https://www.microarch.org/micro55/
+  deadline: '2022-04-14 23:59:59'
+  timezone: Etc/GMT-7
+  date: October 1 - 5, 2022
+  place: Chicago, IL, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro55/submit/papers.php'>HTML</a>.
+
+- title: FDL
+  year: 2022
+  id: fdl22
+  link: http://fdl-conference.com/
+  deadline: '2022-05-02 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 14 - 16, 2022
+  place: Linz, Austria
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='http://fdl-conference.com/doc/CFP.pdf'>PDF</a>.
+
+- title: ICCAD
+  year: 2022
+  id: iccad22
+  link: https://www.iccad.com/
+  deadline: '2022-05-23 23:59:59'
+  timezone: Etc/GMT+12
+  date: October 30, 2022 - November 3, 2020
+  place: San Diego, CA, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://iccad.com/wp-content/uploads/sites/72/2022/04/iccad2022-cfp_web-16.pdf'>PDF</a>.
+
+- title: DSD
+  year: 2022
+  id: dsd2022
+  link: https://dsd-seaa2022.iuma.ulpgc.es/
+  deadline: '2022-05-25 23:59:59'
+  timezone: Etc/GMT+12
+  date: August 31, 2020 - September 2, 2022
+  place: Maspalomas, Spain
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2022.iuma.ulpgc.es/#call-for-papers'>HTML</a>.
+
+- title: HiPEAC
+  year: 2023
+  id: hipeac2023
+  link: https://www.hipeac.net/2022/budapest
+  deadline: '2022-06-01 23:59:59'
+  timezone: Etc/GMT+12
+  date: Jan 16 - 18, 2023
+  place: Toulouse, France
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.hipeac.net/2023/toulouse/#/call-for-papers/'>HTML</a>.
+
+- title: ICCD
+  year: 2022
+  id: iccd2022
+  link: https://www.iccd-conf.com/Home.html
+  deadline: '2022-06-18 23:59:59'
+  timezone: Etc/GMT+12
+  date: October 23 - 26, 2022
+  place: Lake Tahoe, CA, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/cfp_ICCD2022_v3_pdf.pdf'>PDF</a>.
+
+- title: DAC
+  year: 2023
+  id: dac2023
+  link: https://www.dac.com
+  deadline: TBA
+  timezone: Etc/GMT+12
+  date: TBA
+  place: TBA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.showsbee.com/fairs/85839-Design-Automation-Conference-2023.html'>HTML</a>.
+
+- title: MBMV
+  year: 2023
+  id: mbmv2023
+  link: TBA
+  deadline: TBA
+  timezone: Etc/GMT-1
+  date: TBA
+  place: TBA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='TBA'>HTML</a>.

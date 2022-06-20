@@ -4,12 +4,12 @@
 cd utils
 
 # on first use
-virtualenv -p python3.5 venv
+python -m venv .venv
 
-source venv/bin/activate
+source .venv/bin/activate
 
 # on first use
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 python process.py
 
