@@ -2,15 +2,15 @@
 ---
 
 - title: MCSoC
-  year: 2020
-  id: mcsoc20
+  year: 2022
+  id: mcsoc22
   link: http://mcsoc-forum.org/
-  deadline: '2020-05-01 12:59:59'
-  timezone: Etc/GMT+1
-  date: December 20-23, 2020
-  place: Singapore
+  deadline: '2022-06-25 23:59:59'
+  timezone: Etc/GMT+12
+  date: December 19-22, 2022
+  place: Penang, Malaysia
   sub: CA
-  note: <b>Call for Papers:</b> <a href='http://mcsoc-forum.org/2020/call-for-paper/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://mcsoc-forum.org/site/index.php/submission/'>HTML</a>.
 
 - title: ICCAD
   year: 2020
