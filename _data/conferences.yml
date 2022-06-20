@@ -67,27 +67,16 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2023/call-for-papers/'>HTML</a>.
 
-- title: ICCV (Low-Power Computer Vision Workshop)
-  year: 2019
-  id: iccv2019
-  link: https://rebootingcomputing.ieee.org/lpirc
-  deadline: '2019-07-31 23:59:59'
-  timezone: Asia/Seoul
-  date: Oct 28, 2019
-  place: Seoul, Korea
-  sub: LP
-  note: <b>Call for Papers:</b> <a href=''https://rebootingcomputing.ieee.org/lpirc>HTML</a>.
-
 - title: ASPLOS
-  year: 2020
+  year: 2023
   id: asplos2020
   link: https://asplos-conference.org
-  deadline: '2019-08-09 23:59:59'
-  timezone: Etc/GMT+2
-  date: March 16-20, 2020
+  deadline: '2022-06-30 23:59:59'
+  timezone: Etc/GMT+12
+  date: March 2023 TBA 
   place: Lausanne, Switzerland
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2019/05/asplos2020-cfp.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/asplos-2023-cfp/'>HTML</a>.
 
 - title: DATE
   year: 2020
