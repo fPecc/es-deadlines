@@ -112,15 +112,15 @@
   note: <b>Call for Papers:</b> <a href='https://icpe2022.spec.org/icpe22_cfp1.txt'>TXT</a>.
 
 - title: RTAS
-  year: 2020
-  id: rtas20
-  link: http://2020.rtas.org
-  deadline: '2019-10-23 23:59:00'
-  timezone: Europe/Berlin
-  date: April 21-24, 2020
-  place: Sydney, Australia
+  year: 2022
+  id: rtas22
+  link: http://2022.rtas.org
+  deadline: '2021-10-29 23:59:59'
+  timezone: Etc/GMT+12 
+  date: May 4-6, 2022
+  place: Milano, Italy 
   sub: TA
-  note: <b>Call for Papers:</b> <a href='http://2020.rtas.org/submissions/call-for-papers/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='http://2022.rtas.org/'>HTML</a>.
 
 - title: ESOP
   year: 2020
