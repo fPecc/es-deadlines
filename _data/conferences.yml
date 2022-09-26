@@ -57,8 +57,8 @@
   note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2023-Call-for-Papers.pdf'>PDF</a>.
 
 - title: ICPE
-  year: 2022
-  id: icpe2022
+  year: 2023
+  id: icpe2023
   link: https://icpe2023.spec.org
   deadline: '2022-10-14 23:59:59'
   timezone: Etc/GMT+12
@@ -79,15 +79,15 @@
   note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2022/submit/papers.php'>HTML</a>.
 
 - title: ISPASS
-  year: 2022
-  id: ispass2022
-  link: https://www.ispass.org/ispass2022/
-  deadline: '2021-12-19 23:59:59'
+  year: 2023
+  id: ispass2023
+  link: https://www.ispass.org/ispass2023/
+  deadline: '2022-11-29 23:59:59'
   timezone: Etc/GMT-4
-  date: May 22-24, 2022
-  place: Boston, Massachusetts, USA
+  date: April, 2023
+  place: Raleigh, North Carolina, USA
   sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.ispass.org/ispass2022'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://ispass.org/ispass2023'>HTML</a>.
 
 - title: ASAP
   year: 2022
