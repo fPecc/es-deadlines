@@ -12,14 +12,14 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://mcsoc-forum.org/site/index.php/submission/'>HTML</a>.
 
-- title: ASPLOS
+- title: ASPLOS (Fall Cycle)
   year: 2023
   id: asplos2023
   link: https://asplos-conference.org
-  deadline: '2022-06-30 23:59:59'
-  timezone: Etc/GMT+12
+  deadline: '2022-10-13 23:59:59'
+  timezone: Etc/GMT-4
   date: March 2023 TBA
-  place: Lausanne, Switzerland
+  place: Vancouver, Canada
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/asplos-2023-cfp/'>HTML</a>.
 
