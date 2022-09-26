@@ -59,13 +59,13 @@
 - title: ICPE
   year: 2022
   id: icpe2022
-  link: https://icpe2022.spec.org
-  deadline: '2021-10-14 23:59:59'
+  link: https://icpe2023.spec.org
+  deadline: '2022-10-14 23:59:59'
   timezone: Etc/GMT+12
-  date: Apr 9 - 13, 2022
-  place: Beijing, China
+  date: Apr 15 - 19, 2023
+  place: Coimbra, Portugal 
   sub: TA
-  note: <b>Call for Papers:</b> <a href='https://icpe2022.spec.org/icpe22_cfp1.txt'>TXT</a>.
+  note: <b>Call for Papers:</b> <a href='https://icpe2023.spec.org/important-dates/'>HTML</a>.
 
 - title: ISCA
   year: 2022
