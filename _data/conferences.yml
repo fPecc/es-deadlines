@@ -1,17 +1,6 @@
 
 ---
 
-- title: MCSoC
-  year: 2022
-  id: mcsoc22
-  link: http://mcsoc-forum.org/
-  deadline: '2022-06-25 23:59:59'
-  timezone: Etc/GMT+12
-  date: December 19 - 22, 2022
-  place: Penang, Malaysia
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://mcsoc-forum.org/site/index.php/submission/'>HTML</a>.
-
 - title: ASPLOS (Fall Cycle)
   year: 2023
   id: asplos2023
@@ -23,39 +12,6 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/asplos-2023-cfp/'>HTML</a>.
 
-- title: ARCS
-  year: 2022
-  id: arcs2022
-  link: https://arcs-conference.org/home
-  deadline: '2022-07-10 23:59:59'
-  timezone: Etc/GMT+1
-  date: September 13 - 15, 2022
-  place: Heilbronn, Germany
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
-
-- title: HPCA
-  year: 2023
-  id: hpca2023
-  link: https://hpca-conf.org/2023/
-  deadline: '2022-07-25 23:59:59'
-  timezone: Etc/GMT-4
-  date: February 25, 2023 - March 1, 2023
-  place: Montreal, Canada
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2023/call-for-papers/'>HTML</a>.
-
-- title: DATE
-  year: 2023
-  id: date2023
-  link: https://www.date-conference.com
-  deadline: '2022-09-18 23:59:59'
-  timezone: Etc/GMT+12
-  date: April 17 - 19, 2023
-  place: Antwerp, Belgium
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2023-Call-for-Papers.pdf'>PDF</a>.
-
 - title: ICPE
   year: 2023
   id: icpe2023
@@ -63,20 +19,20 @@
   deadline: '2022-10-14 23:59:59'
   timezone: Etc/GMT+12
   date: Apr 15 - 19, 2023
-  place: Coimbra, Portugal 
+  place: Coimbra, Portugal
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://icpe2023.spec.org/important-dates/'>HTML</a>.
 
-- title: ISCA
-  year: 2022
-  id: isca2022
-  link: https://iscaconf.org/isca2022/
-  deadline: '2021-11-23 23:59:59'
-  timezone: Etc/GMT+12
-  date: June 18 - 22, 2022
-  place: New York City, NY, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2022/submit/papers.php'>HTML</a>.
+- title: DAC
+  year: 2023
+  id: dac2023
+  link: https://www.dac.com
+  deadline: '2022-11-14 00:05:00'
+  timezone: Etc/GMT-7
+  date: July 9 - 13, 2023
+  place: San Francisco, California, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>HTML</a>.
 
 - title: ISPASS
   year: 2023
@@ -88,6 +44,17 @@
   place: Raleigh, North Carolina, USA
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://ispass.org/ispass2023'>HTML</a>.
+
+- title: ISCA
+  year: 2022
+  id: isca2022
+  link: https://iscaconf.org/isca2022/
+  deadline: '2021-11-23 23:59:59'
+  timezone: Etc/GMT+12
+  date: June 18 - 22, 2022
+  place: New York City, NY, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2022/submit/papers.php'>HTML</a>.
 
 - title: ASAP
   year: 2022
@@ -221,16 +188,49 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/cfp_ICCD2022_v3_pdf.pdf'>PDF</a>.
 
-- title: DAC
+- title: MCSoC
+  year: 2022
+  id: mcsoc22
+  link: http://mcsoc-forum.org/
+  deadline: '2022-06-25 23:59:59'
+  timezone: Etc/GMT+12
+  date: December 19 - 22, 2022
+  place: Penang, Malaysia
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://mcsoc-forum.org/site/index.php/submission/'>HTML</a>.
+
+- title: ARCS
+  year: 2022
+  id: arcs2022
+  link: https://arcs-conference.org/home
+  deadline: '2022-07-10 23:59:59'
+  timezone: Etc/GMT+1
+  date: September 13 - 15, 2022
+  place: Heilbronn, Germany
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
+
+- title: HPCA
   year: 2023
-  id: dac2023
-  link: https://www.dac.com
-  deadline: '2022-11-14 00:05:00' 
-  timezone: Etc/GMT-7
-  date: July 9 - 13, 2023
-  place: San Francisco, California, USA
+  id: hpca2023
+  link: https://hpca-conf.org/2023/
+  deadline: '2022-07-25 23:59:59'
+  timezone: Etc/GMT-4
+  date: February 25, 2023 - March 1, 2023
+  place: Montreal, Canada
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2023/call-for-papers/'>HTML</a>.
+
+- title: DATE
+  year: 2023
+  id: date2023
+  link: https://www.date-conference.com
+  deadline: '2022-09-18 23:59:59'
+  timezone: Etc/GMT+12
+  date: April 17 - 19, 2023
+  place: Antwerp, Belgium
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2023-Call-for-Papers.pdf'>PDF</a>.
 
 - title: MBMV
   year: 2023
