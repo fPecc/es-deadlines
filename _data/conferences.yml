@@ -225,12 +225,12 @@
   year: 2023
   id: dac2023
   link: https://www.dac.com
-  deadline: TBA
-  timezone: Etc/GMT+12
-  date: TBA
-  place: TBA
+  deadline: '2022-11-14 00:05:00' 
+  timezone: Etc/GMT-7
+  date: July 9 - 13, 2023
+  place: San Francisco, California, USA
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.showsbee.com/fairs/85839-Design-Automation-Conference-2023.html'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>HTML</a>.
 
 - title: MBMV
   year: 2023
