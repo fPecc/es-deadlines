@@ -51,21 +51,21 @@
   link: https://iscaconf.org/isca2023/
   deadline: '2022-11-14 23:59:59'
   timezone: Etc/GMT+12
-  date: June 17 - 23, 2022
+  date: June 17 - 23, 2023
   place: Orlando, FL, USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2023/submit/papers.php'>HTML</a>.
 
 - title: ASAP
-  year: 2022
-  id: asap2022
-  link: https://www.asap2022.org/
-  deadline: '2022-02-21 23:59:59'
+  year: 2023
+  id: asap2023
+  link: https://www.asap2023.org/
+  deadline: '2023-02-20 23:59:59'
   timezone: Etc/GMT+12
-  date: July 12 - 14, 2022
-  place: Gothenburg, Sweden
+  date: July 19 - 21, 2023
+  place: Porto, Portugal
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.asap2022.org/contributions/call_for_papers'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.asap2023.org/contributions/call_for_papers'>HTML</a>.
 
 - title: ISLPED
   year: 2022
