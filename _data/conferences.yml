@@ -1,28 +1,6 @@
 
 ---
 
-- title: DAC
-  year: 2023
-  id: dac2023
-  link: https://www.dac.com
-  deadline: '2022-11-14 00:05:00'
-  timezone: Etc/GMT-7
-  date: July 9 - 13, 2023
-  place: San Francisco, California, USA
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>HTML</a>.
-
-- title: ISCA
-  year: 2023
-  id: isca2023
-  link: https://iscaconf.org/isca2023/
-  deadline: '2022-11-14 23:59:59'
-  timezone: Etc/GMT+12
-  date: June 17 - 23, 2023
-  place: Orlando, FL, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2023/submit/papers.php'>HTML</a>.
-
 - title: ISPASS
   year: 2023
   id: ispass2023
@@ -55,6 +33,17 @@
   place: Porto, Portugal
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.asap2023.org/contributions/call_for_papers'>HTML</a>.
+
+- title: DSD
+  year: 2023
+  id: dsd2023
+  link: https://dsd-seaa2023.com/
+  deadline: '2023-04-17 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 6-8, 2023
+  place: Durres, Albania
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2023.com/call-for-papers/'>HTML</a>.
 
 - title: ISLPED
   year: 2022
@@ -132,17 +121,6 @@
   place: Linz, Austria
   sub: ES
   note: <b>Call for Papers:</b> <a href='http://fdl-conference.com/doc/CFP.pdf'>PDF</a>.
-
-- title: DSD
-  year: 2023
-  id: dsd2023
-  link: https://dsd-seaa2023.com/
-  deadline: '2023-04-17 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 6-8, 2023 
-  place: Durres, Albania
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2023.com/call-for-papers/'>HTML</a>.
 
 - title: HiPEAC
   year: 2023
@@ -242,6 +220,28 @@
   place: Southern Florida, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://mlsys.org/Conferences/2023/CallForPapers'>HTML</a>.
+
+- title: DAC
+  year: 2023
+  id: dac2023
+  link: https://www.dac.com
+  deadline: '2022-11-14 00:05:00'
+  timezone: Etc/GMT-7
+  date: July 9 - 13, 2023
+  place: San Francisco, California, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>HTML</a>.
+
+- title: ISCA
+  year: 2023
+  id: isca2023
+  link: https://iscaconf.org/isca2023/
+  deadline: '2022-11-14 23:59:59'
+  timezone: Etc/GMT+12
+  date: June 17 - 23, 2023
+  place: Orlando, FL, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2023/submit/papers.php'>HTML</a>.
 
 - title: MBMV
   year: 2023
