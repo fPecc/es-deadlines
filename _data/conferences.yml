@@ -68,26 +68,26 @@
   note: <b>Call for Papers:</b> <a href='https://pldi22.sigplan.org/track/LCTES-2022#Call-for-Papers'>HTML</a>.
 
 - title: CASES
-  year: 2022
+  year: 2023
   id: cases2022
   link: https://www.esweek.org/cases
-  deadline: '2022-03-31 23:59:59'
+  deadline: '2023-03-23 23:59:59'
   timezone: Etc/GMT+12
-  date: October 7-14, 2022
-  place: Shanghai, China
+  date: September 17-22, 2023
+  place: Hamburg, Germany 
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/cases-call-for-papers-page/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
 
 - title: CODES+ISSS
-  year: 2022
-  id: codesisss2022
-  link: https://esweek.org/codes-isss
-  deadline: '2022-03-31 23:59:59'
+  year: 2023
+  id: cases2022
+  link: https://www.esweek.org/cases
+  deadline: '2023-03-23 23:59:59'
   timezone: Etc/GMT+12
-  date: October 7-14, 2022
-  place: Shanghai, China
+  date: September 17-22, 2023
+  place: Hamburg, Germany 
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/codesisss-call-for-papers-page/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
 
 - title: SAMOS
   year: 2022
