@@ -1,28 +1,6 @@
 
 ---
 
-- title: ISPASS
-  year: 2023
-  id: ispass2023
-  link: https://www.ispass.org/ispass2023/
-  deadline: '2022-11-29 23:59:59'
-  timezone: Etc/GMT-4
-  date: April, 2023
-  place: Raleigh, North Carolina, USA
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://ispass.org/ispass2023'>HTML</a>.
-
-- title: ICCAD
-  year: 2023
-  id: iccad23
-  link: https://www.iccad-conf.com/
-  deadline: '2022-12-31 23:59:59'
-  timezone: Etc/GMT
-  date: May 10 - 12, 2023
-  place: Rome, Italy
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.iccad-conf.com/wp-content/uploads/2022/09/CFP-ICCAD-2023.pdf'>PDF</a>.
-
 - title: ASAP
   year: 2023
   id: asap2023
@@ -33,6 +11,39 @@
   place: Porto, Portugal
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.asap2023.org/contributions/call_for_papers'>HTML</a>.
+
+- title: ISLPED
+  year: 2023
+  id: islped2023
+  link: http://www.islped.org/2023/
+  deadline: '2023-03-13 23:59:59'
+  timezone: Etc/GMT+8
+  date: August 7 - 8, 2023
+  place: Vienna, Austria
+  sub: LP
+  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2023/files/2023_CFP_29Nov2022.pdf'>PDF</a>.
+
+- title: CASES
+  year: 2023
+  id: cases2022
+  link: https://www.esweek.org/cases
+  deadline: '2023-03-23 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 17-22, 2023
+  place: Hamburg, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
+
+- title: CODES+ISSS
+  year: 2023
+  id: codesisss2022
+  link: https://www.esweek.org/cases
+  deadline: '2023-03-23 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 17-22, 2023
+  place: Hamburg, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
 
 - title: DSD
   year: 2023
@@ -45,17 +56,6 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://dsd-seaa2023.com/call-for-papers/'>HTML</a>.
 
-- title: ISLPED
-  year: 2023
-  id: islped2023
-  link: http://www.islped.org/2023/
-  deadline: '2023-03-13 23:59:59'
-  timezone: Etc/GMT+8
-  date: August 7 - 8, 2023
-  place: Vienna, Austria 
-  sub: LP
-  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2023/files/2023_CFP_29Nov2022.pdf'>PDF</a>.
-
 - title: LCTES
   year: 2022
   id: lctes2022
@@ -66,28 +66,6 @@
   place: San Diego, CA, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://pldi22.sigplan.org/track/LCTES-2022#Call-for-Papers'>HTML</a>.
-
-- title: CASES
-  year: 2023
-  id: cases2022
-  link: https://www.esweek.org/cases
-  deadline: '2023-03-23 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 17-22, 2023
-  place: Hamburg, Germany 
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
-
-- title: CODES+ISSS
-  year: 2023
-  id: cases2022
-  link: https://www.esweek.org/cases
-  deadline: '2023-03-23 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 17-22, 2023
-  place: Hamburg, Germany 
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
 
 - title: SAMOS
   year: 2022
@@ -242,6 +220,28 @@
   place: Orlando, FL, USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2023/submit/papers.php'>HTML</a>.
+
+- title: ISPASS
+  year: 2023
+  id: ispass2023
+  link: https://www.ispass.org/ispass2023/
+  deadline: '2022-11-29 23:59:59'
+  timezone: Etc/GMT-4
+  date: April, 2023
+  place: Raleigh, North Carolina, USA
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='https://ispass.org/ispass2023'>HTML</a>.
+
+- title: ICCAD
+  year: 2023
+  id: iccad23
+  link: https://www.iccad-conf.com/
+  deadline: '2022-12-31 23:59:59'
+  timezone: Etc/GMT
+  date: May 10 - 12, 2023
+  place: Rome, Italy
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.iccad-conf.com/wp-content/uploads/2022/09/CFP-ICCAD-2023.pdf'>PDF</a>.
 
 - title: MBMV
   year: 2023
