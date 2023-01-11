@@ -246,10 +246,10 @@
 - title: MBMV
   year: 2023
   id: mbmv2023
-  link: TBA
-  deadline: TBA
+  link: https://cca.informatik.uni-freiburg.de/mbmv23/
+  deadline: '2023-01-27 23:59:59'
   timezone: Etc/GMT-1
-  date: TBA
-  place: TBA
+  date: March 23 - 24, 2023
+  place: Freiburg, Germany
   sub: ES
-  note: <b>Call for Papers:</b> <a href='TBA'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://cca.informatik.uni-freiburg.de/mbmv23/mbmv23cfp.pdf'>PDF</a>.
