@@ -253,3 +253,14 @@
   place: Freiburg, Germany
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://cca.informatik.uni-freiburg.de/mbmv23/mbmv23cfp.pdf'>PDF</a>.
+
+- title: IISWC
+  year: 2022
+  id: iiswc2022
+  link: http://www.iiswc.org/
+  deadline: '2022-07-15 17:00:00'
+  timezone: Etc/GMT+5
+  date: November 6 - 8, 2022
+  place: Austin, TX, USA
+  sub: RA
+  note: <b>Call for Papers:</b> <a href='http://www.iiswc.org/iiswc2022/index.html'>HTML</a>.
