@@ -1,6 +1,17 @@
 
 ---
 
+- title: MBMV
+  year: 2023
+  id: mbmv2023
+  link: https://cca.informatik.uni-freiburg.de/mbmv23/
+  deadline: '2023-01-27 23:59:59'
+  timezone: Etc/GMT-1
+  date: March 23 - 24, 2023
+  place: Freiburg, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://cca.informatik.uni-freiburg.de/mbmv23/mbmv23cfp.pdf'>PDF</a>.
+
 - title: ASAP
   year: 2023
   id: asap2023
@@ -133,6 +144,17 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
 
+- title: IISWC
+  year: 2022
+  id: iiswc2022
+  link: http://www.iiswc.org/
+  deadline: '2022-07-15 17:00:00'
+  timezone: Etc/GMT+5
+  date: November 6 - 8, 2022
+  place: Austin, TX, USA
+  sub: RA
+  note: <b>Call for Papers:</b> <a href='http://www.iiswc.org/iiswc2022/index.html'>HTML</a>.
+
 - title: HPCA
   year: 2023
   id: hpca2023
@@ -242,25 +264,3 @@
   place: Rome, Italy
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad-conf.com/wp-content/uploads/2022/09/CFP-ICCAD-2023.pdf'>PDF</a>.
-
-- title: MBMV
-  year: 2023
-  id: mbmv2023
-  link: https://cca.informatik.uni-freiburg.de/mbmv23/
-  deadline: '2023-01-27 23:59:59'
-  timezone: Etc/GMT-1
-  date: March 23 - 24, 2023
-  place: Freiburg, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://cca.informatik.uni-freiburg.de/mbmv23/mbmv23cfp.pdf'>PDF</a>.
-
-- title: IISWC
-  year: 2022
-  id: iiswc2022
-  link: http://www.iiswc.org/
-  deadline: '2022-07-15 17:00:00'
-  timezone: Etc/GMT+5
-  date: November 6 - 8, 2022
-  place: Austin, TX, USA
-  sub: RA
-  note: <b>Call for Papers:</b> <a href='http://www.iiswc.org/iiswc2022/index.html'>HTML</a>.
