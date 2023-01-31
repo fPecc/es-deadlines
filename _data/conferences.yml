@@ -1,17 +1,6 @@
 
 ---
 
-- title: MBMV
-  year: 2023
-  id: mbmv2023
-  link: https://cca.informatik.uni-freiburg.de/mbmv23/
-  deadline: '2023-01-27 23:59:59'
-  timezone: Etc/GMT-1
-  date: March 23 - 24, 2023
-  place: Freiburg, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://cca.informatik.uni-freiburg.de/mbmv23/mbmv23cfp.pdf'>PDF</a>.
-
 - title: ASAP
   year: 2023
   id: asap2023
@@ -33,6 +22,17 @@
   place: Vienna, Austria
   sub: LP
   note: <b>Call for Papers:</b> <a href='https://www.islped.org/2023/files/2023_CFP_29Nov2022.pdf'>PDF</a>.
+
+- title: SAMOS
+  year: 2023
+  id: samosxxiii
+  link: http://samos-conference.com
+  deadline: '2023-03-17 23:59:59'
+  timezone: Etc/GMT+12
+  date: July 2 - 6, 2023
+  place: Samos Island, Greece
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://samos-conference.com/wp/wp-content/uploads/2023/01/SAMOS_XXIII_CFP-4.pdf'>PDF</a>.
 
 - title: CASES
   year: 2023
@@ -78,17 +78,6 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://pldi22.sigplan.org/track/LCTES-2022#Call-for-Papers'>HTML</a>.
 
-- title: SAMOS
-  year: 2023
-  id: samosxxiii
-  link: http://samos-conference.com
-  deadline: '2023-03-17 23:59:59'
-  timezone: Etc/GMT+12
-  date: July 2 - 6, 2023
-  place: Samos Island, Greece
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://samos-conference.com/wp/wp-content/uploads/2023/01/SAMOS_XXIII_CFP-4.pdf'>PDF</a>.
-
 - title: MICRO
   year: 2022
   id: micro55
@@ -121,6 +110,17 @@
   place: Toulouse, France
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.hipeac.net/2023/toulouse/#/call-for-papers/'>HTML</a>.
+
+- title: ICCD
+  year: 2022
+  id: iccd2022
+  link: https://www.iccd-conf.com/Home.html
+  deadline: '2022-06-18 23:59:59'
+  timezone: Etc/GMT+12
+  date: October 23 - 26, 2022
+  place: Lake Tahoe, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
 
 - title: MCSoC
   year: 2022
@@ -188,17 +188,6 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/asplos-2023-cfp/'>HTML</a>.
 
-- title: ICCD
-  year: 2022
-  id: iccd2022
-  link: https://www.iccd-conf.com/Home.html
-  deadline: '2022-06-18 23:59:59'
-  timezone: Etc/GMT+12
-  date: October 23 - 26, 2022
-  place: Lake Tahoe, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
-
 - title: ICPE
   year: 2023
   id: icpe2023
@@ -220,6 +209,17 @@
   place: Southern Florida, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://mlsys.org/Conferences/2023/CallForPapers'>HTML</a>.
+
+- title: ISCAS
+  year: 2023
+  id: iscas2023
+  link: https://iscas2023.org/
+  deadline: '2022-11-07 23:59:59'
+  timezone: Etc/GMT+12
+  date: May 21 - 25, 2023
+  place: Moneterey, CA, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://confcats-web-assets.s3.amazonaws.com/iscas/2023/iscas23-cfp_web-16.pdf'>PDF</a>.
 
 - title: DAC
   year: 2023
@@ -265,13 +265,13 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad-conf.com/wp-content/uploads/2022/09/CFP-ICCAD-2023.pdf'>PDF</a>.
 
-- title: ISCAS
+- title: MBMV
   year: 2023
-  id: iscas2023
-  link: https://iscas2023.org/
-  deadline: '2022-11-07 23:59:59'
-  timezone: Etc/GMT+12
-  date: May 21 - 25, 2023
-  place: Moneterey, CA, USA
+  id: mbmv2023
+  link: https://cca.informatik.uni-freiburg.de/mbmv23/
+  deadline: '2023-01-27 23:59:59'
+  timezone: Etc/GMT-1
+  date: March 23 - 24, 2023
+  place: Freiburg, Germany
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://confcats-web-assets.s3.amazonaws.com/iscas/2023/iscas23-cfp_web-16.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://cca.informatik.uni-freiburg.de/mbmv23/mbmv23cfp.pdf'>PDF</a>.
