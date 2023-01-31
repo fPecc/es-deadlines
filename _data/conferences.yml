@@ -250,7 +250,7 @@
   deadline: '2022-11-29 23:59:59'
   timezone: Etc/GMT-4
   date: April, 2023
-  place: Raleigh, North Carolina, USA
+  place: Raleigh, NC, USA
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://ispass.org/ispass2023'>HTML</a>.
 
@@ -264,3 +264,14 @@
   place: Rome, Italy
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad-conf.com/wp-content/uploads/2022/09/CFP-ICCAD-2023.pdf'>PDF</a>.
+
+- title: ISCAS
+  year: 2023
+  id: iscas2023
+  link: https://iscas2023.org/
+  deadline: '2022-11-07 23:59:59'
+  timezone: Etc/GMT+12
+  date: May 21 - 25, 2023
+  place: Moneterey, CA, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://confcats-web-assets.s3.amazonaws.com/iscas/2023/iscas23-cfp_web-16.pdf'>PDF</a>.
