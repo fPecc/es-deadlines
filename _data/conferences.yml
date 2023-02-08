@@ -67,17 +67,6 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://dsd-seaa2023.com/call-for-papers/'>HTML</a>.
 
-- title: LCTES
-  year: 2022
-  id: lctes2022
-  link: https://pldi22.sigplan.org/track/LCTES-2022
-  deadline: '2022-03-14 23:59:59'
-  timezone: Etc/GMT+12
-  date: June 13 - 27, 2022
-  place: San Diego, CA, USA
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://pldi22.sigplan.org/track/LCTES-2022#Call-for-Papers'>HTML</a>.
-
 - title: MICRO
   year: 2022
   id: micro55
@@ -121,17 +110,6 @@
   place: Lake Tahoe, USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
-
-- title: MCSoC
-  year: 2022
-  id: mcsoc22
-  link: http://mcsoc-forum.org/
-  deadline: '2022-06-25 23:59:59'
-  timezone: Etc/GMT+12
-  date: December 19 - 22, 2022
-  place: Penang, Malaysia
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://mcsoc-forum.org/site/index.php/submission/'>HTML</a>.
 
 - title: ARCS
   year: 2022
