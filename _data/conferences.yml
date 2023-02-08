@@ -56,6 +56,17 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
 
+- title: ARCS
+  year: 2023
+  id: arcs2023
+  link: https://arcs-conference.org
+  deadline: '2023-04-07 23:59:59'
+  timezone: Etc/GMT+12
+  date: June 13 - 15, 2023
+  place: Athens, Greece
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
+
 - title: DSD
   year: 2023
   id: dsd2023
@@ -110,17 +121,6 @@
   place: Lake Tahoe, USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
-
-- title: ARCS
-  year: 2022
-  id: arcs2022
-  link: https://arcs-conference.org/home
-  deadline: '2022-07-10 23:59:59'
-  timezone: Etc/GMT+1
-  date: September 13 - 15, 2022
-  place: Heilbronn, Germany
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
 
 - title: IISWC
   year: 2022
