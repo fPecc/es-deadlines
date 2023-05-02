@@ -123,15 +123,15 @@
   note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
 
 - title: IISWC
-  year: 2022
-  id: iiswc2022
+  year: 2023
+  id: iiswc2023
   link: http://www.iiswc.org/
-  deadline: '2022-07-15 17:00:00'
-  timezone: Etc/GMT+5
-  date: November 6 - 8, 2022
-  place: Austin, TX, USA
+  deadline: '2023-06-14 23:59:59'
+  timezone: Etc/GMT+12
+  date: October 1 - 3, 2023
+  place: Ghent, Belgium 
   sub: RA
-  note: <b>Call for Papers:</b> <a href='http://www.iiswc.org/iiswc2022/index.html'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>HTML</a>.
 
 - title: HPCA
   year: 2023
