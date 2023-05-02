@@ -81,7 +81,7 @@
 - title: MICRO
   year: 2023
   id: micro56
-  link: https://www.microarch.org/micro55/
+  link: https://www.microarch.org/micro56/
   deadline: '2023-04-28 23:59:59'
   timezone: Etc/GMT-7
   date: October 28 - November 1, 2023
@@ -101,15 +101,15 @@
   note: <b>Call for Papers:</b> <a href='https://fdl-conference.com/researchpapers.html#researchpapersdetails'>HTML</a>.
 
 - title: HiPEAC
-  year: 2023
-  id: hipeac2023
-  link: https://www.hipeac.net/2022/budapest
-  deadline: '2022-06-01 23:59:59'
+  year: 2024
+  id: hipeac2024
+  link: https://www.hipeac.net/2024/munich
+  deadline: '2023-06-01 23:59:59'
   timezone: Etc/GMT+12
-  date: Jan 16 - 18, 2023
-  place: Toulouse, France
+  date: Jan 14 - 19, 2023
+  place: Munich, Germany
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.hipeac.net/2023/toulouse/#/call-for-papers/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.hipeac.net/2024/munich/#/call-for-papers/'>HTML</a>.
 
 - title: ICCD
   year: 2022
