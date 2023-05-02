@@ -1,71 +1,16 @@
 
 ---
 
-- title: ASAP
+- title: FDL
   year: 2023
-  id: asap2023
-  link: https://www.asap2023.org/
-  deadline: '2023-02-20 23:59:59'
+  id: fdl23
+  link: http://fdl-conference.com/
+  deadline: '2023-05-10 23:59:59'
   timezone: Etc/GMT+12
-  date: July 19 - 21, 2023
-  place: Porto, Portugal
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.asap2023.org/contributions/call_for_papers'>HTML</a>.
-
-- title: ISLPED
-  year: 2023
-  id: islped2023
-  link: http://www.islped.org/2023/
-  deadline: '2023-03-13 23:59:59'
-  timezone: Etc/GMT+8
-  date: August 7 - 8, 2023
-  place: Vienna, Austria
-  sub: LP
-  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2023/files/2023_CFP_29Nov2022.pdf'>PDF</a>.
-
-- title: SAMOS
-  year: 2023
-  id: samosxxiii
-  link: http://samos-conference.com
-  deadline: '2023-03-17 23:59:59'
-  timezone: Etc/GMT+12
-  date: July 2 - 6, 2023
-  place: Samos Island, Greece
+  date: September 14 - 16, 2022
+  place: Turin, Italy
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://samos-conference.com/wp/wp-content/uploads/2023/01/SAMOS_XXIII_CFP-4.pdf'>PDF</a>.
-
-- title: CASES
-  year: 2023
-  id: cases2022
-  link: https://www.esweek.org/cases
-  deadline: '2023-03-23 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 17-22, 2023
-  place: Hamburg, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
-
-- title: CODES+ISSS
-  year: 2023
-  id: codesisss2022
-  link: https://www.esweek.org/cases
-  deadline: '2023-03-23 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 17-22, 2023
-  place: Hamburg, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
-
-- title: ARCS
-  year: 2023
-  id: arcs2023
-  link: https://arcs-conference.org
-  deadline: '2023-04-07 23:59:59'
-  timezone: Etc/GMT+12
-  date: June 13 - 15, 2023
-  place: Athens, Greece
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://fdl-conference.com/researchpapers.html#researchpapersdetails'>HTML</a>.
 
 - title: DSD
   year: 2023
@@ -77,28 +22,6 @@
   place: Durres, Albania
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://dsd-seaa2023.com/call-for-papers/'>HTML</a>.
-
-- title: MICRO
-  year: 2023
-  id: micro56
-  link: https://www.microarch.org/micro56/
-  deadline: '2023-04-28 23:59:59'
-  timezone: Etc/GMT-7
-  date: October 28 - November 1, 2023
-  place: Toronto, Canada
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://microarch.org/micro56/submit/papers.php'>HTML</a>.
-
-- title: FDL
-  year: 2023
-  id: fdl23
-  link: http://fdl-conference.com/
-  deadline: '2023-05-10 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 14 - 16, 2022
-  place: Turin, Italy
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://fdl-conference.com/researchpapers.html#researchpapersdetails'>HTML</a>.
 
 - title: HiPEAC
   year: 2024
@@ -129,7 +52,7 @@
   deadline: '2023-06-14 23:59:59'
   timezone: Etc/GMT+12
   date: October 1 - 3, 2023
-  place: Ghent, Belgium 
+  place: Ghent, Belgium
   sub: RA
   note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>HTML</a>.
 
@@ -253,3 +176,80 @@
   place: Freiburg, Germany
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://cca.informatik.uni-freiburg.de/mbmv23/mbmv23cfp.pdf'>PDF</a>.
+
+- title: ASAP
+  year: 2023
+  id: asap2023
+  link: https://www.asap2023.org/
+  deadline: '2023-02-20 23:59:59'
+  timezone: Etc/GMT+12
+  date: July 19 - 21, 2023
+  place: Porto, Portugal
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.asap2023.org/contributions/call_for_papers'>HTML</a>.
+
+- title: ISLPED
+  year: 2023
+  id: islped2023
+  link: http://www.islped.org/2023/
+  deadline: '2023-03-13 23:59:59'
+  timezone: Etc/GMT+8
+  date: August 7 - 8, 2023
+  place: Vienna, Austria
+  sub: LP
+  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2023/files/2023_CFP_29Nov2022.pdf'>PDF</a>.
+
+- title: SAMOS
+  year: 2023
+  id: samosxxiii
+  link: http://samos-conference.com
+  deadline: '2023-03-17 23:59:59'
+  timezone: Etc/GMT+12
+  date: July 2 - 6, 2023
+  place: Samos Island, Greece
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://samos-conference.com/wp/wp-content/uploads/2023/01/SAMOS_XXIII_CFP-4.pdf'>PDF</a>.
+
+- title: CASES
+  year: 2023
+  id: cases2022
+  link: https://www.esweek.org/cases
+  deadline: '2023-03-23 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 17-22, 2023
+  place: Hamburg, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
+
+- title: CODES+ISSS
+  year: 2023
+  id: codesisss2022
+  link: https://www.esweek.org/cases
+  deadline: '2023-03-23 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 17-22, 2023
+  place: Hamburg, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
+
+- title: ARCS
+  year: 2023
+  id: arcs2023
+  link: https://arcs-conference.org
+  deadline: '2023-04-07 23:59:59'
+  timezone: Etc/GMT+12
+  date: June 13 - 15, 2023
+  place: Athens, Greece
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://arcs-conference.org/call-for-papers'>HTML</a>.
+
+- title: MICRO
+  year: 2023
+  id: micro56
+  link: https://www.microarch.org/micro56/
+  deadline: '2023-04-28 23:59:59'
+  timezone: Etc/GMT-7
+  date: October 28 - November 1, 2023
+  place: Toronto, Canada
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://microarch.org/micro56/submit/papers.php'>HTML</a>.
