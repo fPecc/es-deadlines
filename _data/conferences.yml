@@ -1,17 +1,6 @@
 
 ---
 
-- title: FDL
-  year: 2023
-  id: fdl23
-  link: http://fdl-conference.com/
-  deadline: '2023-05-10 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 14 - 16, 2022
-  place: Turin, Italy
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://fdl-conference.com/researchpapers.html#researchpapersdetails'>HTML</a>.
-
 - title: DSD
   year: 2023
   id: dsd2023
@@ -55,6 +44,17 @@
   place: Ghent, Belgium
   sub: RA
   note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>HTML</a>.
+
+- title: SenSys
+  year: 2023
+  id: sensys2023
+  link: https://sensys.acm.org/2023/
+  deadline: '2023-06-22 23:59:59'
+  timezone: Etc/GMT+12
+  date: November 13-15, 2023
+  place: Istanbul, Turkey
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://sensys.acm.org/2023/cfp/'>HTML</a>.
 
 - title: HPCA
   year: 2023
@@ -253,3 +253,14 @@
   place: Toronto, Canada
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://microarch.org/micro56/submit/papers.php'>HTML</a>.
+
+- title: FDL
+  year: 2023
+  id: fdl23
+  link: http://fdl-conference.com/
+  deadline: '2023-05-10 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 14 - 16, 2022
+  place: Turin, Italy
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://fdl-conference.com/researchpapers.html#researchpapersdetails'>HTML</a>.
