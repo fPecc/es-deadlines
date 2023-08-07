@@ -72,22 +72,22 @@
   id: date2024
   link: https://www.date-conference.com
   deadline: '2023-09-10 23:59:59'
-  timezone: Etc/GMT+11
+  timezone: Etc/GMT+12
   date: March 25 - 27, 2024
   place: Valencia, Spain
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2024-Call-for-Papers.pdf'>PDF</a>.
 
-- title: ASPLOS (Fall Cycle)
-  year: 2023
-  id: asplos2023
+- title: ASPLOS
+  year: 2024
+  id: asplos2024
   link: https://asplos-conference.org
-  deadline: '2022-10-13 23:59:59'
+  deadline: '2023-11-23 14:59:59'
   timezone: Etc/GMT-4
-  date: March 2023 TBA
-  place: Vancouver, Canada
+  date: April 27 - May 1, 2024 
+  place: San Diego, CA, USA 
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/asplos-2023-cfp/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/cfp/'>HTML</a>.
 
 - title: ICPE
   year: 2023
