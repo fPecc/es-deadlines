@@ -68,15 +68,15 @@
   note: <b>Call for Papers:</b> <a href='https://www.hpca-conf.org/2024/submit/papers.php'>HTML</a>.
 
 - title: DATE
-  year: 2023
-  id: date2023
+  year: 2024
+  id: date2024
   link: https://www.date-conference.com
-  deadline: '2022-09-18 23:59:59'
-  timezone: Etc/GMT+12
-  date: April 17 - 19, 2023
-  place: Antwerp, Belgium
+  deadline: '2023-09-10 23:59:59'
+  timezone: Etc/GMT+11
+  date: March 25 - 27, 2024
+  place: Valencia, Spain
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2023-Call-for-Papers.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2024-Call-for-Papers.pdf'>PDF</a>.
 
 - title: ASPLOS (Fall Cycle)
   year: 2023
