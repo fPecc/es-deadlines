@@ -112,15 +112,15 @@
   note: <b>Call for Papers:</b> <a href='https://mlsys.org/Conferences/2024/CallForPapers'>HTML</a>.
 
 - title: ISCAS
-  year: 2023
-  id: iscas2023
-  link: https://iscas2023.org/
-  deadline: '2022-11-07 23:59:59'
+  year: 2024
+  id: iscas2024
+  link: https://2024.ieee-iscas.org/
+  deadline: '2023-10-15 23:59:59'
   timezone: Etc/GMT+12
-  date: May 21 - 25, 2023
-  place: Moneterey, CA, USA
+  date: May 19 - 22, 2024
+  place: Singapore 
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://confcats-web-assets.s3.amazonaws.com/iscas/2023/iscas23-cfp_web-16.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://2024.ieee-iscas.org/cfp/CFP_ISCAS_2024.pdf?v=4'>PDF</a>.
 
 - title: DAC
   year: 2023
