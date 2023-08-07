@@ -1,72 +1,6 @@
 
 ---
 
-- title: DSD
-  year: 2023
-  id: dsd2023
-  link: https://dsd-seaa2023.com/
-  deadline: '2023-05-15 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 6-8, 2023
-  place: Durres, Albania
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2023.com/call-for-papers/'>HTML</a>.
-
-- title: HiPEAC
-  year: 2024
-  id: hipeac2024
-  link: https://www.hipeac.net/2024/munich
-  deadline: '2023-06-01 23:59:59'
-  timezone: Etc/GMT+12
-  date: Jan 14 - 19, 2023
-  place: Munich, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.hipeac.net/2024/munich/#/call-for-papers/'>HTML</a>.
-
-- title: ICCD
-  year: 2023
-  id: iccd2023
-  link: https://www.iccd-conf.com/Home.html
-  deadline: '2023-06-09 23:59:59'
-  timezone: Etc/GMT+12
-  date: November 6 - 8, 2023
-  place: Washington DC, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
-
-- title: IISWC
-  year: 2023
-  id: iiswc2023
-  link: http://www.iiswc.org/
-  deadline: '2023-06-14 23:59:59'
-  timezone: Etc/GMT+12
-  date: October 1 - 3, 2023
-  place: Ghent, Belgium
-  sub: RA
-  note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>HTML</a>.
-
-- title: SenSys
-  year: 2023
-  id: sensys2023
-  link: https://sensys.acm.org/2023/
-  deadline: '2023-06-22 23:59:59'
-  timezone: Etc/GMT+12
-  date: November 13-15, 2023
-  place: Istanbul, Turkey
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://sensys.acm.org/2023/cfp/'>HTML</a>.
-
-- title: HPCA
-  year: 2024
-  id: hpca2024
-  link: https://hpca-conf.org/2024/
-  deadline: '2023-07-28 23:59:59'
-  timezone: Etc/GMT-4
-  date: March 2-6, 2024
-  place: Edinburgh, UK 
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.hpca-conf.org/2024/submit/papers.php'>HTML</a>.
-
 - title: DATE
   year: 2024
   id: date2024
@@ -78,14 +12,36 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2024-Call-for-Papers.pdf'>PDF</a>.
 
+- title: ISCAS
+  year: 2024
+  id: iscas2024
+  link: https://2024.ieee-iscas.org/
+  deadline: '2023-10-15 23:59:59'
+  timezone: Etc/GMT+12
+  date: May 19 - 22, 2024
+  place: Singapore
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://2024.ieee-iscas.org/cfp/CFP_ISCAS_2024.pdf?v=4'>PDF</a>.
+
+- title: ISCA
+  year: 2024
+  id: isca2024
+  link: https://iscaconf.org/isca2024/
+  deadline: '2023-11-14 23:59:59'
+  timezone: Etc/GMT+12
+  date: June 29 - July 3, 2024
+  place: Buenos Aires, Argentina
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2024/submit/papers.php'>HTML</a>.
+
 - title: ASPLOS
   year: 2024
   id: asplos2024
   link: https://asplos-conference.org
   deadline: '2023-11-23 14:59:59'
   timezone: Etc/GMT-4
-  date: April 27 - May 1, 2024 
-  place: San Diego, CA, USA 
+  date: April 27 - May 1, 2024
+  place: San Diego, CA, USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/cfp/'>HTML</a>.
 
@@ -100,28 +56,6 @@
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://icpe2023.spec.org/important-dates/'>HTML</a>.
 
-- title: MLSys
-  year: 2024
-  id: mlsys2024
-  link: https://mlsys.org/
-  deadline: 'TBA'
-  timezone: Etc/GMT+3
-  date: May 13 - 16, 2024
-  place: Santa Clara, CA, USA
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://mlsys.org/Conferences/2024/CallForPapers'>HTML</a>.
-
-- title: ISCAS
-  year: 2024
-  id: iscas2024
-  link: https://2024.ieee-iscas.org/
-  deadline: '2023-10-15 23:59:59'
-  timezone: Etc/GMT+12
-  date: May 19 - 22, 2024
-  place: Singapore 
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://2024.ieee-iscas.org/cfp/CFP_ISCAS_2024.pdf?v=4'>PDF</a>.
-
 - title: DAC
   year: 2023
   id: dac2023
@@ -132,17 +66,6 @@
   place: San Francisco, California, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>HTML</a>.
-
-- title: ISCA
-  year: 2024
-  id: isca2024
-  link: https://iscaconf.org/isca2024/ 
-  deadline: '2023-11-14 23:59:59'
-  timezone: Etc/GMT+12
-  date: June 29 - July 3, 2024
-  place: Buenos Aires, Argentina
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2024/submit/papers.php'>HTML</a>.
 
 - title: ISPASS
   year: 2023
@@ -161,10 +84,10 @@
   link: https://www.iccad-conf.com/
   deadline: '2022-12-31 23:59:59'
   timezone: Etc/GMT
-  date: May 10 - 12, 2023
-  place: Rome, Italy
+  date: Ocotober 29 - November 2, 2023
+  place: San Francisco, CA, USA
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.iccad-conf.com/wp-content/uploads/2022/09/CFP-ICCAD-2023.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://iccad.com/'>HTML</a>.
 
 - title: MBMV
   year: 2023
@@ -264,3 +187,80 @@
   place: Turin, Italy
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://fdl-conference.com/researchpapers.html#researchpapersdetails'>HTML</a>.
+
+- title: DSD
+  year: 2023
+  id: dsd2023
+  link: https://dsd-seaa2023.com/
+  deadline: '2023-05-15 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 6-8, 2023
+  place: Durres, Albania
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2023.com/call-for-papers/'>HTML</a>.
+
+- title: HiPEAC
+  year: 2024
+  id: hipeac2024
+  link: https://www.hipeac.net/2024/munich
+  deadline: '2023-06-01 23:59:59'
+  timezone: Etc/GMT+12
+  date: Jan 14 - 19, 2023
+  place: Munich, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.hipeac.net/2024/munich/#/call-for-papers/'>HTML</a>.
+
+- title: ICCD
+  year: 2023
+  id: iccd2023
+  link: https://www.iccd-conf.com/Home.html
+  deadline: '2023-06-09 23:59:59'
+  timezone: Etc/GMT+12
+  date: November 6 - 8, 2023
+  place: Washington DC, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
+
+- title: IISWC
+  year: 2023
+  id: iiswc2023
+  link: http://www.iiswc.org/
+  deadline: '2023-06-14 23:59:59'
+  timezone: Etc/GMT+12
+  date: October 1 - 3, 2023
+  place: Ghent, Belgium
+  sub: RA
+  note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>HTML</a>.
+
+- title: SenSys
+  year: 2023
+  id: sensys2023
+  link: https://sensys.acm.org/2023/
+  deadline: '2023-06-22 23:59:59'
+  timezone: Etc/GMT+12
+  date: November 13-15, 2023
+  place: Istanbul, Turkey
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://sensys.acm.org/2023/cfp/'>HTML</a>.
+
+- title: HPCA
+  year: 2024
+  id: hpca2024
+  link: https://hpca-conf.org/2024/
+  deadline: '2023-07-28 23:59:59'
+  timezone: Etc/GMT-4
+  date: March 2-6, 2024
+  place: Edinburgh, UK
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.hpca-conf.org/2024/submit/papers.php'>HTML</a>.
+
+- title: MLSys
+  year: 2024
+  id: mlsys2024
+  link: https://mlsys.org/
+  deadline: TBA
+  timezone: Etc/GMT+3
+  date: May 13 - 16, 2024
+  place: Santa Clara, CA, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://mlsys.org/Conferences/2024/CallForPapers'>HTML</a>.
