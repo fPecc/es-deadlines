@@ -9,3 +9,5 @@
   sub: LP
 - name: Software Engineering
   sub: SE
+- name: Software Testing
+  sub: ST

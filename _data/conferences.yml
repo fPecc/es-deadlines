@@ -188,6 +188,17 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://fdl-conference.com/researchpapers.html#researchpapersdetails'>HTML</a>.
 
+- title: ETS
+  year: 2025
+  id: ets2025
+  link: https://ets2025.taltech.ee/
+  deadline: '2024-12-09 23:59:59'
+  timezone: Etc/GMT+12
+  date: May 26-30, 2025
+  place: Tallinn, Estonia
+  sub: ST
+  note: <b>Call for Papers:</b> <a href='http://ets2025.taltech.ee/files/cfp_ETS2025_v10.pdf'>HTML</a>.
+
 - title: DSD
   year: 2025
   id: dsd2023
