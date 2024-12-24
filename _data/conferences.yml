@@ -24,15 +24,15 @@
   note: <b>Call for Papers:</b> <a href='https://confcats-event-sessions.s3.amazonaws.com/iscas25/uploads/iscas25-cfp_web-19.pdf'>PDF</a>.
 
 - title: ISCA
-  year: 2024
+  year: 2025
   id: isca2024
-  link: https://iscaconf.org/isca2024/
-  deadline: '2023-11-14 23:59:59'
+  link: https://iscaconf.org/isca2025/
+  deadline: '2024-11-15 23:59:59'
   timezone: Etc/GMT+12
-  date: June 29 - July 3, 2024
-  place: Buenos Aires, Argentina
+  date: June 21 - 25, 2024
+  place: Tokyo, Japan
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2024/submit/papers.php'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2025/submit/papers.php'>HTML</a>.
 
 - title: ASPLOS
   year: 2024
