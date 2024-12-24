@@ -189,15 +189,26 @@
   note: <b>Call for Papers:</b> <a href='https://fdl-conference.com/researchpapers.html#researchpapersdetails'>HTML</a>.
 
 - title: DSD
-  year: 2023
+  year: 2025
   id: dsd2023
-  link: https://dsd-seaa2023.com/
-  deadline: '2023-05-15 23:59:59'
+  link: https://dsd-seaa.com/
+  deadline: '2025-04-15 23:59:59'
   timezone: Etc/GMT+12
-  date: September 6-8, 2023
-  place: Durres, Albania
+  date: September 10-12, 2025
+  place: Salerno, Italy
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2023.com/call-for-papers/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://dsd-seaa.com/dsd2025/'>HTML</a>.
+
+- title: SEAA
+  year: 2025
+  id: seaa2025
+  link: https://dsd-seaa.com/
+  deadline: '2025-04-15 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 10-12, 2025
+  place: Salerno, Italy
+  sub: SE
+  note: <b>Call for Papers:</b> <a href='https://dsd-seaa.com/seaa2025/'>HTML</a>.
 
 - title: HiPEAC
   year: 2024
