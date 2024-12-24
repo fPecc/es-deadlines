@@ -67,6 +67,18 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2025-Call-for-Contributions'>HTML</a>.
 
+- title: ASP-DAC
+  year: 2025
+  id: aspdac2025
+  link: https://www.dac.com
+  deadline: '2024-06-05 23:59:59'
+  timezone: Etc/GMT+12
+  date: January 20 - 23, 2025
+  place: Tokyo, Japan
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.aspdac.com/aspdac2025/cfp/'>HTML</a>.
+
+
 - title: ISPASS
   year: 2023
   id: ispass2023
