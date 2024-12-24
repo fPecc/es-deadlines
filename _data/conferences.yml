@@ -233,6 +233,17 @@
   sub: SE
   note: <b>Call for Papers:</b> <a href='https://dsd-seaa.com/seaa2025/'>HTML</a>.
 
+- title: INDIN
+  year: 2025
+  id: indin2025
+  link: https://indin2025.ieee-ies.org/#/home
+  deadline: '2025-02-15 23:59:59'
+  timezone: Etc/GMT+12
+  date: July 12 - 15, 2025
+  place: KunMing, China
+  sub: SE
+  note: <b>Call for Papers:</b> <a href='https://indin2025.ieee-ies.org/#/calls/callForPaper'>HTML</a>.
+
 - title: HiPEAC
   year: 2024
   id: hipeac2024
