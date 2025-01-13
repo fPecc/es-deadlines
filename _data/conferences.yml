@@ -2,37 +2,37 @@
 ---
 
 - title: DATE
-  year: 2024
+  year: 2025
   id: date2024
   link: https://www.date-conference.com
-  deadline: '2023-09-10 23:59:59'
+  deadline: '2024-09-15 23:59:59'
   timezone: Etc/GMT+12
-  date: March 25 - 27, 2024
-  place: Valencia, Spain
+  date: March 31 - April 2, 2025
+  place: Lyon, France
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2024-Call-for-Papers.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2025-Call-for-Papers-print.pdf'>PDF</a>.
 
 - title: ISCAS
-  year: 2024
+  year: 2025
   id: iscas2024
-  link: https://2024.ieee-iscas.org/
-  deadline: '2023-10-15 23:59:59'
+  link: https://2025.ieee-iscas.org/
+  deadline: '2024-10-28 23:59:59'
   timezone: Etc/GMT+12
-  date: May 19 - 22, 2024
-  place: Singapore
+  date: May 25 - 28, 2025
+  place: London, UK
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://2024.ieee-iscas.org/cfp/CFP_ISCAS_2024.pdf?v=4'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://confcats-event-sessions.s3.amazonaws.com/iscas25/uploads/iscas25-cfp_web-19.pdf'>PDF</a>.
 
 - title: ISCA
-  year: 2024
+  year: 2025
   id: isca2024
-  link: https://iscaconf.org/isca2024/
-  deadline: '2023-11-14 23:59:59'
+  link: https://iscaconf.org/isca2025/
+  deadline: '2024-11-15 23:59:59'
   timezone: Etc/GMT+12
-  date: June 29 - July 3, 2024
-  place: Buenos Aires, Argentina
+  date: June 21 - 25, 2024
+  place: Tokyo, Japan
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2024/submit/papers.php'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2025/submit/papers.php'>HTML</a>.
 
 - title: ASPLOS
   year: 2024
@@ -57,15 +57,27 @@
   note: <b>Call for Papers:</b> <a href='https://icpe2023.spec.org/important-dates/'>HTML</a>.
 
 - title: DAC
-  year: 2023
+  year: 2025
   id: dac2023
   link: https://www.dac.com
-  deadline: '2022-11-14 00:05:00'
+  deadline: '2024-11-12 00:05:00'
   timezone: Etc/GMT-7
-  date: July 9 - 13, 2023
+  date: June 22 - 25, 2025
   place: San Francisco, California, USA
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2025-Call-for-Contributions'>HTML</a>.
+
+- title: ASP-DAC
+  year: 2025
+  id: aspdac2025
+  link: https://www.dac.com
+  deadline: '2024-06-05 23:59:59'
+  timezone: Etc/GMT+12
+  date: January 20 - 23, 2025
+  place: Tokyo, Japan
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.aspdac.com/aspdac2025/cfp/'>HTML</a>.
+
 
 - title: ISPASS
   year: 2023
@@ -101,15 +113,15 @@
   note: <b>Call for Papers:</b> <a href='https://cca.informatik.uni-freiburg.de/mbmv23/mbmv23cfp.pdf'>PDF</a>.
 
 - title: ASAP
-  year: 2023
+  year: 2025
   id: asap2023
-  link: https://www.asap2023.org/
-  deadline: '2023-02-20 23:59:59'
+  link: https://www.asap-2025.org/
+  deadline: '2023-02-14 23:59:59'
   timezone: Etc/GMT+12
-  date: July 19 - 21, 2023
-  place: Porto, Portugal
+  date: July 28 - 30, 2025
+  place: Vancouver, Canada
   sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.asap2023.org/contributions/call_for_papers'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.asap-2025.org/calls-for-contributions'>HTML</a>.
 
 - title: ISLPED
   year: 2023
@@ -134,26 +146,26 @@
   note: <b>Call for Papers:</b> <a href='https://samos-conference.com/wp/wp-content/uploads/2023/01/SAMOS_XXIII_CFP-4.pdf'>PDF</a>.
 
 - title: CASES
-  year: 2023
+  year: 2025
   id: cases2022
   link: https://www.esweek.org/cases
-  deadline: '2023-03-23 23:59:59'
+  deadline: '2025-03-23 23:59:59'
   timezone: Etc/GMT+12
-  date: September 17-22, 2023
-  place: Hamburg, Germany
+  date: September 28-October 3, 2025
+  place: Taipei, Taiwan
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PENDING</a>.
 
 - title: CODES+ISSS
-  year: 2023
+  year: 2025
   id: codesisss2022
   link: https://www.esweek.org/cases
-  deadline: '2023-03-23 23:59:59'
+  deadline: '2025-03-23 23:59:59'
   timezone: Etc/GMT+12
-  date: September 17-22, 2023
-  place: Hamburg, Germany
+  date: September 28-October 3, 2025
+  place: Taipei, Taiwan
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PENDING</a>.
 
 - title: ARCS
   year: 2023
@@ -188,16 +200,49 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://fdl-conference.com/researchpapers.html#researchpapersdetails'>HTML</a>.
 
-- title: DSD
-  year: 2023
-  id: dsd2023
-  link: https://dsd-seaa2023.com/
-  deadline: '2023-05-15 23:59:59'
+- title: ETS
+  year: 2025
+  id: ets2025
+  link: https://ets2025.taltech.ee/
+  deadline: '2024-12-09 23:59:59'
   timezone: Etc/GMT+12
-  date: September 6-8, 2023
-  place: Durres, Albania
+  date: May 26-30, 2025
+  place: Tallinn, Estonia
+  sub: ST
+  note: <b>Call for Papers:</b> <a href='http://ets2025.taltech.ee/files/cfp_ETS2025_v10.pdf'>HTML</a>.
+
+- title: DSD
+  year: 2025
+  id: dsd2023
+  link: https://dsd-seaa.com/
+  deadline: '2025-04-15 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 10-12, 2025
+  place: Salerno, Italy
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2023.com/call-for-papers/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://dsd-seaa.com/dsd2025/'>HTML</a>.
+
+- title: SEAA
+  year: 2025
+  id: seaa2025
+  link: https://dsd-seaa.com/
+  deadline: '2025-04-15 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 10-12, 2025
+  place: Salerno, Italy
+  sub: SE
+  note: <b>Call for Papers:</b> <a href='https://dsd-seaa.com/seaa2025/'>HTML</a>.
+
+- title: INDIN
+  year: 2025
+  id: indin2025
+  link: https://indin2025.ieee-ies.org/#/home
+  deadline: '2025-02-15 23:59:59'
+  timezone: Etc/GMT+12
+  date: July 12 - 15, 2025
+  place: KunMing, China
+  sub: SE
+  note: <b>Call for Papers:</b> <a href='https://indin2025.ieee-ies.org/#/calls/callForPaper'>HTML</a>.
 
 - title: HiPEAC
   year: 2024
