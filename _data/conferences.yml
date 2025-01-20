@@ -12,6 +12,17 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2025-Call-for-Papers-print.pdf'>PDF</a>.
 
+- title: ETFA
+  year: 2025
+  id: etfa2025
+  link: https://etfa2025.ieee-ies.org
+  deadline: '2025-04-18 23:59:59'
+  timezone: Etc/GMT+12
+  date: September 9 - 12, 2025
+  place: Porto, Portugal
+  sub: SE
+  note: <b>Call for Papers:</b> <a href='https://etfa2025.ieee-ies.org/files/ETFA2025_CFP_v2.pdf'>PDF</a>.
+
 - title: ISCAS
   year: 2025
   id: iscas2024
@@ -124,15 +135,15 @@
   note: <b>Call for Papers:</b> <a href='https://www.asap-2025.org/calls-for-contributions'>HTML</a>.
 
 - title: ISLPED
-  year: 2023
+  year: 2025
   id: islped2023
-  link: http://www.islped.org/2023/
-  deadline: '2023-03-13 23:59:59'
+  link: http://www.islped.org/2025/
+  deadline: '2025-03-03 23:59:59'
   timezone: Etc/GMT+8
-  date: August 7 - 8, 2023
-  place: Vienna, Austria
+  date: August 6 - 8, 2023
+  place: Iceland
   sub: LP
-  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2023/files/2023_CFP_29Nov2022.pdf'>PDF</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2025/files/ISPED2025CfP.pdf'>PDF</a>.
 
 - title: SAMOS
   year: 2023
